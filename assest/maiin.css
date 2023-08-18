@@ -1,0 +1,20 @@
+body{
+    background: #d1e6fa!important;
+    direction: rtl;
+    font-family: lalezar;
+    src: url(/fonts/2\ LALEZAR\ \(TARFAND3.COM\).TTF);
+}
+.bg-body-tertiary{
+    background-color: aquamarine!important;
+}
+#navbar-brand-icon{
+    width: 32px;
+    height: auto;
+}
+#intro-p{
+    text-align: justify;
+}
+.img-sec{
+    max-width: 512px;
+    height: auto;
+}

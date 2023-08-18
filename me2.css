@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(180deg,#ff6c0a,#fefefe);
+    margin: 0%;
+
+}
+#header{
+    background: #73d830b7;
+    font-size: xx-large;
+    text-align: center;
+}
+.img-div img{
+    border-radius: 10rem;
+}
+#imp{
+    direction: rtl;
+    font-family: lalezar;
+    src: url(/fonts/2\ LALEZAR\ \(TARFAND3.COM\).TTF);
+}
+#table{
+    border: 1px solid #000000;
+    direction: rtl;
+    width: 100%;
+}
+.part{
+    border: 2px solid #ff6c0a;
+}
+.safe-area{
+    padding: 2rem;
+}
